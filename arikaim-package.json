@@ -1,0 +1,8 @@
+{
+    "title": "Shopify Api",
+    "name": "shopify",
+    "package-type": "module",
+    "version": "1.0.0",
+    "description": "Shopify api module",
+    "type": "package"
+}
